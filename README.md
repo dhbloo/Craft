@@ -13,8 +13,9 @@
 8.会掉落的沙子
 9.玩家飞行模式与普通模式
 
- **需Lwjgl-2.9.3运行库，和slick-util** ，所需文件已上传至Library文件夹
+ **需Lwjgl-2.9.3运行库，和slick-util** ，所需文件已上传至附件(LwjglLibrary.rar)
 也可以在此链接下载[Lwjgl-2.9.3 Download](http://legacy.lwjgl.org/download.php)
+[slick-util](http://slick.ninjacave.com/slick-util/)
 
  **2014.10.17 已停止更新** 
 

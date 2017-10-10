@@ -1,24 +1,24 @@
 # Craft
 ### Craft is a game imitating Minecraft. It is written in Java with Lwjgl.
 
- **一个仿写Minecraft的3D沙盒游戏** 
+**一个仿写Minecraft的3D沙盒游戏** 
 
 已实现的功能有:
-1.1024x1024x128大小的世界
-2.基于PerlinNoise的高度图地形生成
-3.2D云
-4.天空
-5.树生成
-6.亮度算法
-7.流动的水和岩浆
-8.会掉落的沙子
-9.玩家飞行模式与普通模式
+>1. 1024x1024x128大小的世界
+>2. 基于PerlinNoise的高度图地形生成
+>3. 2D云
+>4. 天空
+>5. 树生成
+>6. 亮度算法
+>7. 流动的水和岩浆
+>8. 会掉落的沙子
+>9. 玩家飞行模式与普通模式
 
- **需Lwjgl-2.9.3运行库，和slick-util** ，所需文件已上传至附件(LwjglLibrary.rar)
-也可以在此链接下载[Lwjgl-2.9.3 Download](http://legacy.lwjgl.org/download.php)
+* **需Lwjgl-2.9.3运行库，和slick-util** ，所需文件已上传至附件(LwjglLibrary.rar)
+* 也可以在此链接下载 [Lwjgl-2.9.3 Download](http://legacy.lwjgl.org/download.php) 
 [slick-util](http://slick.ninjacave.com/slick-util/)
 
- **2014.10.17 已停止更新** 
+### **2014.10.17 已停止更新** 
 
 以下是截图
 
